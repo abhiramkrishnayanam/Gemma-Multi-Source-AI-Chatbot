@@ -26,6 +26,7 @@ This chatbot application allows users to upload or input various data sources an
 - **Streamlit** – UI/UX framework
 - **Gemma 2 9B IT Model** – Language model used for inference
 - **Groq API** – For lightning-fast inference
+- **Google API** - For creating Embeddings
 - **LangChain** – For text processing and vector search
 - **FAISS / Chroma** – Vector store for document embeddings
 - **PyMuPDF / pdfplumber** – For PDF text extraction
