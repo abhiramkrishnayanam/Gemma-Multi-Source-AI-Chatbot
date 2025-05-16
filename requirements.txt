@@ -6,6 +6,7 @@ langchain_google_genai
 langchain
 streamlit
 langchain_community
+beautifulsoup4
 python-dotenv
 pypdf
 youtube_transcript_api
